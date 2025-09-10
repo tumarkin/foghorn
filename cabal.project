@@ -1,0 +1,11 @@
+packages: 
+    -- Base module
+    foghorn-base/
+
+    -- Databases
+    -- Language
+    -- Transpiling
+    -- Modules
+    -- Replication
+    -- App
+
