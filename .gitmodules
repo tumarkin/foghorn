@@ -1,0 +1,3 @@
+[submodule "foghorn-base"]
+	path = foghorn-base
+	url = git@github.com:tumarkin/foghorn-base
