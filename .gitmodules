@@ -10,3 +10,6 @@
 [submodule "foghorn-data-crsp"]
 	path = foghorn-data-crsp
 	url = git@github.com:tumarkin/foghorn-data-crsp
+[submodule "foghorn-data-bespoke"]
+	path = foghorn-data-bespoke
+	url = git@github.com:tumarkin/foghorn-data-bespoke

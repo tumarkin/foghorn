@@ -3,9 +3,10 @@ packages:
     foghorn-base/
 
     -- Databases
-    - foghorn-data-comp
-    - foghorn-data-crsp
-    - foghorn-data-risk
+    foghorn-data-bespoke/
+    foghorn-data-comp/
+    foghorn-data-crsp/
+    foghorn-data-risk/
 
     -- Language
     -- Transpiling
