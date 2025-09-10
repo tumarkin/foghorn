@@ -4,3 +4,6 @@
 [submodule "foghorn-data-comp"]
 	path = foghorn-data-comp
 	url = git@github.com:tumarkin/foghorn-data-comp
+[submodule "foghorn-data-risk"]
+	path = foghorn-data-risk
+	url = git@github.com:tumarkin/foghorn-data-risk

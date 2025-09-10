@@ -3,6 +3,9 @@ packages:
     foghorn-base/
 
     -- Databases
+    - foghorn-data-comp
+    - foghorn-data-risk
+
     -- Language
     -- Transpiling
     -- Modules
