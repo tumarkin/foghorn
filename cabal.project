@@ -4,6 +4,7 @@ packages:
 
     -- Databases
     - foghorn-data-comp
+    - foghorn-data-crsp
     - foghorn-data-risk
 
     -- Language

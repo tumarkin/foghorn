@@ -7,3 +7,6 @@
 [submodule "foghorn-data-risk"]
 	path = foghorn-data-risk
 	url = git@github.com:tumarkin/foghorn-data-risk
+[submodule "foghorn-data-crsp"]
+	path = foghorn-data-crsp
+	url = git@github.com:tumarkin/foghorn-data-crsp
