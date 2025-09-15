@@ -13,3 +13,6 @@
 [submodule "foghorn-data-bespoke"]
 	path = foghorn-data-bespoke
 	url = git@github.com:tumarkin/foghorn-data-bespoke
+[submodule "foghorn-data-sdc"]
+	path = foghorn-data-sdc
+	url = git@github.com:tumarkin/foghorn-data-sdc
