@@ -7,6 +7,7 @@ packages:
     foghorn-data-comp/
     foghorn-data-crsp/
     foghorn-data-risk/
+    foghorn-data-sdc/
 
     -- Language
     -- Transpiling
