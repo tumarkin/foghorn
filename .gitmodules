@@ -16,3 +16,6 @@
 [submodule "foghorn-data-sdc"]
 	path = foghorn-data-sdc
 	url = git@github.com:tumarkin/foghorn-data-sdc
+[submodule "foghorn-dsl"]
+	path = foghorn-dsl
+	url = git@github.com:tumarkin/foghorn-dsl
