@@ -10,6 +10,8 @@ packages:
     foghorn-data-sdc/
 
     -- Language
+    foghorn-dsl/
+    
     -- Transpiling
     -- Modules
     -- Replication
